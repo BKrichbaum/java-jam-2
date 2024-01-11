@@ -1,3 +1,4 @@
+
 body { background-color: #FCEBB6;
        color: #221811;
        font-family: Tahoma, Arial, sans-serif;
@@ -6,13 +7,14 @@ body { background-color: #FCEBB6;
        background-size: cover;
        background-attachment: fixed;
 }
-#wrapper { background-color: #FEFAEB;
+#wrapper { background-color: #fefaeb;
            margin-left: auto;
            margin-right: auto;
            width: 80%;
            min-width: 900px;
            max-width: 1280px;
            box-sizing: 3px 3px 3px #676767;
+           
 }  
 header { background-color: #D2B48C;
          color: #8C3826;
@@ -66,6 +68,7 @@ img {padding-left: 10px;
 * {
        box-sizing: border-box;
 }
+
 
 
  
